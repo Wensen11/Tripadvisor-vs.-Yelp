@@ -1,1 +1,5 @@
 # Tripadvisor-vs.-Yelp
+Tripadvisor
+Tripadvisor, Inc. is an American online travel company. It has sites in 45 countries, including the United States, The United Kingdom, Spain, and China, 24 travel brands in 28 languages with more than 600,000 members, and information on more than 1,650,000 hotels, 530,000 tourist attractions, and 2,700,000 restaurants. Since anyone can comment on the site, authenticity (including prices and services, and whether the reviewer actually stayed) is for reference only.
+Yelp
+	Yelp is a review site where users can find restaurants, hotels, and other places they would like to go. It has developed the Yelp.com website and Yelp mobile app, making it much easier for travelers to find their favorite restaurants anytime and anywhere on the road. The site has over 199 million reviews of businesses worldwide. Whether people are looking for a new restaurant, or find a home cleaning service, Over hundreds of millions of people around the world share their experiences with searchers. Users are not restricted by any demographic, which means that anyone can post their views and opinions on the site.
